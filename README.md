@@ -25,4 +25,12 @@ News Classification: Sử dụng Machine Learning và Deep Learning models để
   * data.csv: Tập dữ liệu chứa khoảng ~1700 bài báo. 500 hàng đầu tiên được gán nhãn bằng tay để kiểm tra, và dữ liệu còn lại được sử dụng cho huấn luyện và phát triển.
 
 ### References:
+[1] [TEXT CLASSIFICATION: A PERSPECTIVE OF DEEP LEARNING METHODS](https://arxiv.org/pdf/2309.13761.pdf)
 
+[2] [News Classification Using Machine Learning](https://www.ijisrt.com/assets/upload/files/IJISRT21MAY852.pdf)
+
+[3] [Online news classification using Deep Learning Technique](https://www.irjet.net/archives/V3/i10/IRJET-V3I10107.pdf)
+
+[4] [Deep Learning Based Text Classification: A Comprehensive Review](https://arxiv.org/pdf/2004.03705.pdf)
+
+[5] [Topic Classification of Online News Articles Using Optimized Machine Learning Models](https://www.mdpi.com/2073-431X/12/1/16)
